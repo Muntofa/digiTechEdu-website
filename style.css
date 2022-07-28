@@ -1,3 +1,7 @@
 .img-blur{
   -webkit-filter: brightness(50%);
 }
+
+.list-icon {
+    list-style-type: none;
+}
