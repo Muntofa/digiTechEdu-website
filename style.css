@@ -1,4 +1,3 @@
 .img-blur{
-  /* -webkit-filter: blur(7px); */
   -webkit-filter: brightness(50%);
 }
